@@ -4,9 +4,6 @@
 
 <h1 align="center">Hexa</h1>
 
-<p align="center">
-  A native, local-first hex editor and binary analysis tool for macOS.
-</p>
 
 Hexa combines an efficient hexadecimal editor with executable structure decoding and visual byte analysis. It is built in Swift with AppKit, SwiftUI, and Apple Charts, follows the system appearance, and keeps file contents on your Mac.
 
