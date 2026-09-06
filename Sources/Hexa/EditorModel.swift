@@ -37,7 +37,7 @@ struct Bookmark: Identifiable, Codable, Equatable { let id: UUID; var offset: In
     @Published var showFind = false
     @Published var workspaceTab: WorkspaceTab = .bytes
     @Published var parserFormat: BinaryFormat = .automatic
-    @Published var showStructureColors = true
+    @Published var showStructureColors = false
     @Published private(set) var structure: StructureReport?
     @Published private(set) var fileIdentity = FileMagic.identify(ByteStore())
     @Published private(set) var selectedStructureNode: BinaryNode?
