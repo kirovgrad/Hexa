@@ -1,0 +1,35 @@
+# macOS metadata
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Swift Package Manager and local build products
+.build/
+.swiftpm/
+build/
+dist/
+DerivedData/
+
+# Xcode user-specific state
+xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.xcscmblueprint
+
+# Logs and distributable artifacts belong in GitHub Releases, not source control
+*.log
+*.dmg
+*.pkg
+*.zip
+
+# Local configuration and signing material
+.env
+.env.*
+!.env.example
+*.cer
+*.key
+*.p12
+*.pem
+*.mobileprovision
+*.provisionprofile
