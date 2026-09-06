@@ -10,9 +10,14 @@ permissions:
 
 jobs:
   test:
-    runs-on: macos-14
+    runs-on: macos-26
     steps:
       - uses: actions/checkout@v7
+      - name: Toolchain information
+        run: |
+          swift --version
+          xcodebuild -version
+          xcode-select -p
       - name: Test
         run: ./Scripts/test.sh
       - name: Build app bundle
