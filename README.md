@@ -22,7 +22,7 @@ Requires **macOS 14 Sonoma or later**.
 
 ## Install
 
-Download the latest `.dmg` from [GitHub Releases](../../releases), open it, and drag **Hexa** to **Applications**. Public binaries should be Developer ID signed and notarized so Gatekeeper can verify them.
+Download the latest `.dmg` from [GitHub Releases](../../releases), open it, and drag **Hexa** to **Applications**.
 
 ## Build from source
 
