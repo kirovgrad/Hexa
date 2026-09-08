@@ -75,4 +75,4 @@ Issues and focused pull requests are welcome. Please include a reproducible samp
 
 ![Hexa executable structure explorer](docs/screenshots/structure.png)
 
-![Hexa analysis dashboard](docs/screenshots/analysis-dark.png)
+![Hexa analysis dashboard](docs/screenshots/analysis.png)
