@@ -71,8 +71,14 @@ Issues and focused pull requests are welcome. Please include a reproducible samp
 
 ## Screenshots
 
-![Hexa byte editor](docs/screenshots/workspace.png)
+<p align="center">
+  <img src="docs/screenshots/workspace.png" width="600" alt="Hexa byte editor">
+</p>
 
-![Hexa executable structure explorer](docs/screenshots/structure.png)
+<p align="center">
+  <img src="docs/screenshots/structure.png" width="600" alt="Hexa executable structure explorer">
+</p>
 
-![Hexa analysis dashboard](docs/screenshots/analysis.png)
+<p align="center">
+  <img src="docs/screenshots/analysis.png" width="600" alt="Hexa analysis dashboard">
+</p>
